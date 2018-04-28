@@ -1,0 +1,11 @@
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\bin\Debug\netcoreapp2.0\MafiaTextAdventure.deps.json
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\bin\Debug\netcoreapp2.0\MafiaTextAdventure.runtimeconfig.json
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\bin\Debug\netcoreapp2.0\MafiaTextAdventure.runtimeconfig.dev.json
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\bin\Debug\netcoreapp2.0\MafiaTextAdventure.dll
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\obj\Debug\netcoreapp2.0\MafiaTextAdventure.csprojResolveAssemblyReference.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\obj\Debug\netcoreapp2.0\MafiaTextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\obj\Debug\netcoreapp2.0\MafiaTextAdventure.AssemblyInfoInputs.cache
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\obj\Debug\netcoreapp2.0\MafiaTextAdventure.AssemblyInfo.cs
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\bin\Debug\netcoreapp2.0\MafiaTextAdventure.pdb
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\obj\Debug\netcoreapp2.0\MafiaTextAdventure.dll
+C:\Users\nick\Documents\Visual Studio 2017\Projects\MafiaTextAdventure\MafiaTextAdventure\obj\Debug\netcoreapp2.0\MafiaTextAdventure.pdb
